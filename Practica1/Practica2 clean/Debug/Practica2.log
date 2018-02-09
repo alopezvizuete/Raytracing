@@ -1,0 +1,11 @@
+﻿  Scene.cpp
+  RayTrace.cpp
+c:\users\alejandro\desktop\p render\practica1\practica2 clean\raytrace.cpp(239): warning C4018: '<' : signed/unsigned mismatch
+c:\users\alejandro\desktop\p render\practica1\practica2 clean\raytrace.cpp(311): warning C4018: '<' : signed/unsigned mismatch
+c:\users\alejandro\desktop\p render\practica1\practica2 clean\raytrace.cpp(327): warning C4018: '<' : signed/unsigned mismatch
+c:\users\alejandro\desktop\p render\practica1\practica2 clean\raytrace.cpp(378): warning C4018: '<' : signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  starter.cpp
+  Generating Code...
+  Practica2.vcxproj -> C:\Users\Alejandro\Desktop\P Render\Practica1\Practica2 clean\Debug\Practica2.exe
